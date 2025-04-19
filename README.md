@@ -1,4 +1,4 @@
-# F1_Race_Prediction
+# F1_Saudi_Arabia_2025_Race_Prediction
 This model is built to determine the winner of Saudi Arabian grand prix in 2025 formula 1. so the algorithm used here is Linear Model based on Weighted Scoring System
 
 # 🏎️ F1 Race Predictor
